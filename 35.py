@@ -1,0 +1,24 @@
+n1:int =0
+n2:int =0
+ma:int =0
+mn:int =0
+impar:int =0
+
+n1=int(input('Insira o primeiro valor:'))
+n2=int(input('Insira o segundo valor:'))
+
+if(n1>n2):
+    ma=n1
+    mn=n2
+else:
+    ma=n2
+    mn=n1
+print(f"Os numeros impares entre {mn} e {ma} são:")
+for mn in range(mn,ma,1):
+    impar=mn%2
+    if(impar!=0):
+        print(mn)
+
+
+
+
