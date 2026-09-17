@@ -1,7 +1,7 @@
 # DecERepPython
 Lista de Exercicios de Decisão e Repetição em Python
 
-Autor: Cristiano Denner Exercícios de introdução ao Python da matéria de Sistemas Opereacionais da Fatec Zona Leste
+Autor: Cristiano Denner Exercícios de introdução ao Python da matéria de Sistemas Operacionais da Fatec Zona Leste
 
 18. Receba 2 valores inteiros. Calcule e mostre o resultado da diferença do maior pelo menos
 valor.
